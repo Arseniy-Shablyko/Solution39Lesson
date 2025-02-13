@@ -3,6 +3,7 @@
 
 #define SIZE 20
 
+// Это мощный комментарий :))
 int main() {
 	srand(time(NULL));
 	int array[SIZE];
